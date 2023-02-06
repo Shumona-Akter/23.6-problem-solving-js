@@ -1,0 +1,22 @@
+module 20.
+1.13 ghorer namota print korar function.
+2.nam nite hobe uppercase a print korbe lower case a.
+3. full name er function.
+4.. একটা ফাংশন লিখবা যেটাকে তুমি কোন সংখ্যাকে ইনপুট হিসেবে দিলে 
+সে সেই সংখ্যার square করে সেই square কে রিটার্ন করবে।
+5.
+৫) pizza নামের একটা object কে নিচের উদাহরণ মতো define করবা :
+
+
+
+const pizza = {
+
+ toppings: ['cheese', 'sauce', 'pepperoni'],
+
+ crust: 'deep dish',
+
+ serves: 2
+
+}
+
+এবং pepperoni প্রিন্ট করবা।
